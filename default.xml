@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <manifest>
-    <remote name="lzy" fetch="https://github.com/liangziyi"/ review="http://android-review.googlesource.com/">
+    <remote name="lzy" fetch="https://github.com/liangziyi" review="https://android-review.googlesource.com/" />
     <default remote="lzy" revision="master"/>
     <project path="./" name="android-repo-demo-app"/>
     <project path="common" name="android-repo-demo-common"/>
