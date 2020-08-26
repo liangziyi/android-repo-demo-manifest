@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<manifest>
+    <remote name="lzy" fetch="https://github.com/liangziyi" />
+    <default remote="lzy" revision="master"/>
+    <project path="./" name="bbb"/>
+    <project path="aaa" name="aaa"/>
+    <project path="ccc" name="ccc"/>
+</manifest>
